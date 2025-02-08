@@ -64,7 +64,7 @@ text-align: center;
 color: #fff;
 }
 .hero-btn {
-background-color: #2e2f42;
+background-color: #4d5ae5;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -76,7 +76,7 @@ color: #ffffff;
     background-color: #404bbf;
 }
 .hero-btn {
-    cursor-pointer
+    cursor:pointer
 }
 
 
