@@ -11,6 +11,7 @@ a {
     text-decoration: none;
 }
 
+
 .logo {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -50,6 +51,34 @@ color: #434455;
 .contacts-link:focus {
     color: #404bbf;
 }
+
+
+.hero {
+    background-color: #2e2f42;
+}
+.hero-title {
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.hero-btn {
+background-color: #2e2f42;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #404bbf;
+}
+.hero-btn {
+    cursor-pointer
+}
+
 
 .page-footer {
     background-color: #2e2f42;}
